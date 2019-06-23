@@ -1,0 +1,21 @@
+{
+  "name": "metronome",
+  "version": "1.0.0",
+  "description": "timer application for workouts",
+  "main": "metronome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/davidhbirchall/workout-timer.git)"
+  },
+  "keywords": [
+    "workout",
+    "timer",
+    "counter",
+    "metronome"
+  ],
+  "author": "David H Birchall",
+  "license": "ISC"
+}
